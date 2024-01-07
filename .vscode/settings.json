@@ -1,4 +1,5 @@
 {
-    "julia.environmentPath": "c:\\Users\\kwon\\Documents\\work",
-    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe"
+    "julia.environmentPath": "/home/kwon/work",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "r.lsp.promptToInstall": false
 }
