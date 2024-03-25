@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyMathHelper",
+            "request": "launch",
+            "mainClass": "MyMathHelper",
+            "projectName": "work_7b290f14"
+        },
+        {
+            "type": "java",
+            "name": "CreateNewUser",
+            "request": "launch",
+            "mainClass": "CreateNewUser",
+            "projectName": "work_7b290f14"
+        },
+        {
+            "type": "java",
             "name": "java_test",
             "request": "launch",
             "mainClass": "java_test",
